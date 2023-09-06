@@ -1,0 +1,16 @@
+import streamlit as st 
+
+st.header("📚 References")
+st.write('1. Mai Sirhan, Shlomo Bekhor, and Arieh Sidess “Implementation of Deep Neural Networks for Pavement Condition Index Prediction ” [2020]')
+st.write('2. Farshid Damirchilo, Arash Hosseini, Mahour Mellat Parast, and Elham H. Fini “Machine Learning Approach to Predict International Roughness Index Using Long-Term Pavement Performance Data” [2020]')
+st.write('3. Olaf Ronneberger, Philipp Fischer, and Thomas Brox “U-Net: Convolutional Networks for Biomedical Image Segmentation” [2015]')
+st.write('4. Li Li, Lijun Sun, Guobao Ning, And Shengguang Tan “Automatic Pavement Crack Recognition Based On BP Neural Network” [2014]')
+st.write('5. Zhang, Allen, et al. "Automated pixel‐level pavement crack detection on 3D asphalt surfaces using a deep‐learning network." [2017]')
+st.write('6. Young-Jin Cha* and Wooram Choi “Deep Learning-Based Crack Damage Detection Using Convolutional Neural Networks” [2017]')
+st.write('7. Kasthurirangan Gopalakrishnan, Siddhartha K. Khaitanb, Alok Choudharya , and Ankit Agrawala “Deep Convolutional Neural Networks with transfer learning for computer vision- based data-driven pavement distress detection” [2017]')
+st.write('8. Hyeong-Gyeong Moon and Jung-Hoon Kim “Intelligent Crack Detecting Algorithm On The Concrete Crack Image Using Neural Network” [2011]')
+st.write('9. Soubhik Das , Ameya Kale, “P3De- A Novel Pothole Detection Algorithm using 3D Depth Estimation” [2021].')
+st.write('10. Chitale, Shenai, Gala, Kerke, and Karani “Pothole Detection and Dimension Estimation System using Deep Learning (YOLO) and Image Processing” [2020].')
+st.write('11. Habeeb Salaudeen, and Erbug Çelebi “Pothole Detection Using Image Enhancement GAN and Object Detection Network” [2022].')
+st.write('12. Yifan Pan , Xianfeng Zhang , Guido Cervone , and Liping Yang, “Detection of Asphalt Pavement Potholes and Cracks Based on the Unmanned Aerial Vehicle Multispectral Imagery” [2018].')
+st.write('13. Hanshen Chen, Minghai Yao, Qinlong Gu “Pothole detection using location-aware convolutional neural networks” [2020].')
